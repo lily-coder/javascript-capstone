@@ -26,8 +26,7 @@ An API based webapp that displays Meals from the [MealsDB](https://www.themealdb
 
 ## 📡 Live Demo
 
-[Link to Live Demo](https://yaseerokino.github.io/javascript-capstone/)
-
+[Link to Live Demo](https://lily-coder.github.io/javascript-capstone/)
 ## 🎥 Video Link
 
 [Link to Project Video Description](https://www.loom.com/share/3ba7b7be5da24625a037048aca2062f5)
@@ -50,10 +49,10 @@ To run this project you need [Node](https://nodejs.org/en/) and [NPM](https://do
 ### **Setup**
 
 If you have installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/yaseerokino/javascript-capstone/archive/refs/heads/develop.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/lily-coder/javascript-capstone/archive/refs/heads/develop.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/yaseerokino/javascript-capstone.git
+git clone https://github.com/lily-coder/javascript-capstone.git
 ```
 
 ### **Install**
@@ -87,23 +86,20 @@ npm test
 ```
 
 ## 🙎🏾‍♂️ Authors
+### Lilian Moraa
+
+- GitHub: [@lily-coder](https://github.com/lily-coder/)
+- LinkedIn: [Lilian Moraa](https://www.linkedin.com/in/lilian-moraa-99950b1b8/)
 
 ### Yaseer Okino
 
 - GitHub: [@yaseerokino](https://github.com/yaseerokino)
-- Twitter: [@yaseerokino](https://twitter.com/yaseerokino)
 - LinkedIn: [Yaseer Okino](https://linkedin.com/in/yaseerokino)
 
 ### Kossi
 
 - GitHub: [@kossi-stack](https://github.com/Kossi-stack/)
-- Twitter: [@Kossi-stack](https://twitter.com/SoloJean5)
 - LinkedIn: [Kossi Stack](https://www.linkedin.com/in/kossifioklou2406/)
-
-### Lilian Moraa
-
-- GitHub: [@lily-coder](https://github.com/lily-coder/)
-- LinkedIn: [Lilian Moraa](https://www.linkedin.com/in/lilian-moraa-99950b1b8/)
 
 ## 👊🏾 Show your support
 

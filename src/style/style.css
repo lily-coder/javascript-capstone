@@ -47,7 +47,7 @@ body {
 }
 
 .container {
-  padding: 2em 20em;
+  padding: 2em 15em;
 }
 
 .header {
@@ -121,9 +121,9 @@ footer {
   background-color: white;
   display: flex;
   flex-direction: column;
-  width: 20%;
-  padding: 24px;
-  margin: 1em 0;
+  width: 26%;
+  padding: 1rem 1rem;
+  margin: 1rem 0;
   box-shadow: rgba(100, 100, 111, 0.2) 0 2px 20px 0;
 }
 
@@ -193,7 +193,7 @@ footer {
 }
 
 .modal-inner {
-  width: 70%;
+  width: 60%;
   margin: auto;
   margin: 100px auto;
   background-color: white;
@@ -239,7 +239,7 @@ footer {
 }
 
 .reserve-container {
-  width: 70%;
+  width: 60%;
   margin: 100px auto;
   background-color: white;
   padding: 3rem;
@@ -405,6 +405,7 @@ input {
   padding: 0% 0.3rem;
 }
 
+.no-comments,
 .comment-name {
   width: 25%;
   text-align: left;

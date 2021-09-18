@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yaseerokino/webpack-sass-boilerplate.git"
+    "url": "git+https://github.com/lily-coder/javascript-capstone.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yaseerokino/webpack-sass-boilerplate/issues"
+    "url": "https://github.com/lily-coder/javascript-capstone/issues"
   },
-  "homepage": "https://github.com/yaseerokino/webpack-sass-boilerplate#readme",
+  "homepage": "https://github.com/lily-coder/javascript-capstone#readme",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.15.4",
     "css-loader": "^6.2.0",
